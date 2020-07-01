@@ -24,19 +24,19 @@ Links:
 
 ☐ Show your top 3 relevant work samples.
 
-* ✅ Because work samples are among the best ways for teams to evaluate candidates.
+* ✅ Work samples are proven to be among the best ways for teams to evaluate candidates.
 
 * 🚫 Do not use more work samples, because you want the hiring manager to focus on your best work.
 
 ☐ Use a proofreader.
 
-* ✅ Because you want a second set of eyes in order to look for errors or unclear areas.
+* ✅ A second set of eyes helps you find errors and fix any unclear areas.
 
 * 🚫 Do not skip this step, because it's so important to being professional.
 
-* ☐ Use bullet points. 
+☐ Use bullet points. 
 
-* ✅ Because bullet points are easier for a reader to skim, and easier for a scanner to parse.
+* ✅ Bullet points are easier for a reader to skim, and easier for a scanner to parse.
 
 * 🚫 Do not use long paragraphs, because they are harder to skim and scan.
 
