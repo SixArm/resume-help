@@ -9,6 +9,7 @@ Links:
 * [43 Resume Tips That Will Help You Get Hired](https://www.themuse.com/advice/43-resume-tips-that-will-help-you-get-hired)
 * [10 Resume Writing Tips to Help You Land a Job](https://www.indeed.com/career-advice/resumes-cover-letters/10-resume-writing-tips)
 * [45 Best Resume Tips & Tricks](https://zety.com/blog/resume-tips)
+* [Resume Tips & Tricks: 49 Insider Secrets](https://resumegenius.com/blog/resume-help/resume-tips)
 
 ☐ Create a PDF file.
 
