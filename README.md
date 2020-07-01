@@ -4,34 +4,39 @@ When you apply for a job, you can improve your chances by sending a good resume 
 
 This page has our resume help tips. We use these for our recruiting and hiring.
 
-* Send your resume as a PDF file.
+Links:
 
-  * Because a PDF file is typically the most-readable and most-scannable.
+* [43 Resume Tips That Will Help You Get Hired](https://www.themuse.com/advice/43-resume-tips-that-will-help-you-get-hired)
+* [10 Resume Writing Tips to Help You Land a Job](https://www.indeed.com/career-advice/resumes-cover-letters/10-resume-writing-tips)
+* [45 Best Resume Tips & Tricks](https://zety.com/blog/resume-tips)
 
-  * Do not send as any other kind of file, because it may interfere with reading and scanning.
+☐ Create a PDF file.
 
-* Format your resume as one page.
+* ✅ A PDF file is typically the most-readable and most-scannable.
 
-  * Because one page is the most-skimmable and most-scannable in order to land an interview. 
+* 🚫 Do not use other kinds of files, because they may interfere with reading and scanning.
 
-  * Do not send more than one page, unless you have extensive extras and you know what you're doing.
+☐ Format as one page.
 
-* Include your top 3 relevant work samples.
+* ✅ One page is the most-skimmable and most-scannable in order to land an interview. 
 
-  * Because work samples are among the best ways for teams to evaluate candidates.
+* 🚫 Do not use more than one page, unless you have extensive extras and you know what you're doing.
 
-  * Do not send too many work samples, because you want the hiring manager to focus on your best work.
+☐ Show your top 3 relevant work samples.
 
-* Use a proofreader.
+* ✅ Because work samples are among the best ways for teams to evaluate candidates.
 
-  * Because you want a second set of eyes in order to look for errors or unclear areas.
+* 🚫 Do not use more work samples, because you want the hiring manager to focus on your best work.
 
-  * Do not skip this step, because it's so important to being professional.
+☐ Use a proofreader.
 
-* Use bullet points. 
+* ✅ Because you want a second set of eyes in order to look for errors or unclear areas.
 
-  * Because bullet points are easier for a reader to skim, and easier for a scanner to parse.
+* 🚫 Do not skip this step, because it's so important to being professional.
 
-  * Do not use long paragraphs, because they are harder to skim and scan.
+* ☐ Use bullet points. 
 
+* ✅ Because bullet points are easier for a reader to skim, and easier for a scanner to parse.
+
+* 🚫 Do not use long paragraphs, because they are harder to skim and scan.
 
