@@ -39,6 +39,12 @@ Links:
 
 * 🚫 Don't use more work samples, because you want the hiring manager to focus on your best work.
 
+☐ Use keywords.
+
+* ✅ Do use the most-important keywords that are relevant to the specific company and job.
+
+* 🚫 Don't use empty words, such as "detail oriented", "team player", "hard working", etc.
+
 
 ## Format
 
