@@ -28,6 +28,11 @@ Links:
 * 🚫 Don't use more work samples, because you want the hiring manager to focus on your best work.
 
 
+* ✅ Do summarize why you're applying for this job and why you're right for it.
+
+* 🚫 Don't put an objective statement, because it's outdated.
+
+
 ## Format
 
 ☐ Format as one page.
