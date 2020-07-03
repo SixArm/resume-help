@@ -27,12 +27,17 @@ Links:
 
 * 🚫 Don't put an objective statement, because it's outdated.
 
+☐ Prove your worth by using metrics.
+
+* ✅ Do use facts, figures, and numbers, that prove your accompishments.
+
+* 🚫 Don't use solely job titles, or solely role responsbilities, or work tasks.
+
 ☐ Show your top 3 relevant work samples.
 
 * ✅ Work samples are proven to be among the best ways for teams to evaluate candidates.
 
 * 🚫 Don't use more work samples, because you want the hiring manager to focus on your best work.
-
 
 
 ## Format
@@ -49,13 +54,16 @@ Links:
 
 * 🚫 Don't use long paragraphs, because they are harder to skim and scan.
 
-☐ Use a proofreader.
+
+## Help
+
+☐ Ask a proofreader.
 
 * ✅ A second set of eyes helps you find errors and fix any unclear areas.
 
 * 🚫 Don't skip this step, because it's so important to being professional.
 
-☐ Ask for advice.
+☐ Ask an expert.
 
 * ✅ Do ask a subject matter expert and a human resources expert to review your resume.
 
