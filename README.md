@@ -11,6 +11,12 @@ Links:
 * [45 Best Resume Tips & Tricks](https://zety.com/blog/resume-tips)
 * [Resume Tips & Tricks: 49 Insider Secrets](https://resumegenius.com/blog/resume-help/resume-tips)
 
+☐ Use your best information.
+
+* ✅ Do put your best, most-relevant, most-important information.
+
+* 🚫 Don't put everything or extraneous information.
+
 ☐ Create a PDF file.
 
 * ✅ A PDF file is typically the most-readable and most-scannable.
@@ -40,4 +46,5 @@ Links:
 * ✅ Bullet points are easier for a reader to skim, and easier for a scanner to parse.
 
 * 🚫 Do not use long paragraphs, because they are harder to skim and scan.
+
 
