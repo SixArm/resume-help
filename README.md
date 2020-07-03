@@ -15,11 +15,17 @@ Links:
 ## Content
 
 
-☐ Use your best information.
+☐ Prioritize your best.
 
-* ✅ Do put your best, most-relevant, most-important information.
+* ✅ Do prioritize your most-relevant most-important most-valuable information.
 
-* 🚫 Don't put everything or extraneous information.
+* 🚫 Don't try to list everything, such as extraneous information.
+
+☐ Summarize your purpose.
+
+* ✅ Do summarize why you're right for the specific company and job.
+
+* 🚫 Don't put an objective statement, because it's outdated.
 
 ☐ Show your top 3 relevant work samples.
 
@@ -27,10 +33,6 @@ Links:
 
 * 🚫 Don't use more work samples, because you want the hiring manager to focus on your best work.
 
-
-* ✅ Do summarize why you're applying for this job and why you're right for it.
-
-* 🚫 Don't put an objective statement, because it's outdated.
 
 
 ## Format
@@ -53,6 +55,12 @@ Links:
 
 * 🚫 Don't skip this step, because it's so important to being professional.
 
+☐ Ask for advice.
+
+* ✅ Do ask a subject matter expert and a human resources expert to review your resume.
+
+* 🚫 Don't skip this step, because good advice can help you improve your resume.
+
 
 ## File
 
@@ -61,3 +69,10 @@ Links:
 * ✅ A PDF file is typically the most-readable and most-scannable.
 
 * 🚫 Don't use other kinds of files, because they may interfere with reading and scanning.
+
+☐ Track your files.
+
+* ✅ Do track who you're contacting, what you're sending, and when.
+
+* 🚫 Don't lose track of who, what, and when.
+
