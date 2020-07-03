@@ -45,6 +45,12 @@ Links:
 
 * 🚫 Don't use empty words, such as "detail oriented", "team player", "hard working", etc.
 
+☐ Explain any unusual timing.
+
+* ✅ Do explain anything that seems like short job hopping, or a long time away from work.
+
+* 🚫 Don't try to cover up any unusual timing.
+
 
 ## Format
 
