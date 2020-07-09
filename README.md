@@ -96,3 +96,19 @@ Links:
 
 * 🚫 Don't lose track of who, what, and when.
 
+
+## Interview questions
+
+☐ Prepare ahead for interview questions.
+
+* ✅ Prepare your your most-valuable answers to challenging questions.
+
+* 🚫 Don't use generic answers, or vague answers, or low-value answers.
+
+Our top 3 interview questions to help you start:
+
+☐ Work sample: please show your most-relevant work sample, and how does it relate to what you feel you could be creating for us?
+
+☐ Skill scope: what is a reach for you, in terms of your skills and abilities, that you could either handle by upskilling or by handoff?
+
+☐ Exceptional perspective: talk about your most-relevant controversial option, where you differ from your typical peers and popular practices?
